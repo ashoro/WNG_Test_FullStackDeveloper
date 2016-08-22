@@ -1,0 +1,4 @@
+C:\AGT_Projects\WNG_Test_Solution\WNG_BusinessLogic\bin\Debug\WNG_BusinessLogic.dll
+C:\AGT_Projects\WNG_Test_Solution\WNG_BusinessLogic\bin\Debug\WNG_BusinessLogic.pdb
+C:\AGT_Projects\WNG_Test_Solution\WNG_BusinessLogic\obj\Debug\WNG_BusinessLogic.dll
+C:\AGT_Projects\WNG_Test_Solution\WNG_BusinessLogic\obj\Debug\WNG_BusinessLogic.pdb

@@ -1,0 +1,125 @@
+﻿
+
+
+
+@font-face {
+    font-family: 'open_sansregular';
+    src: url('../fonts/opensans-regular-webfont.woff') format('woff'),
+    src: url('../fonts/OpenSans-Regular.ttf') format('truetype'),
+         url('../fonts/opensans-regular-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:open_sansregular,Arial;
+}
+body{
+    background: #0dbe9d;
+    background: -moz-linear-gradient(left, #0dbe9d 0%, #c2d4d8 100%);
+    background: -webkit-gradient(left top, right top, color-stop(0%, #0dbe9d), color-stop(100%, #c2d4d8));
+    background: -webkit-linear-gradient(left, #0dbe9d 0%, #c2d4d8 100%);
+    background: -o-linear-gradient(left, #0dbe9d 0%, #c2d4d8 100%);
+    background: -ms-linear-gradient(left, #0dbe9d 0%, #c2d4d8 100%);
+    background: linear-gradient(to right, #0dbe9d 0%, #c2d4d8 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0dbe9d', endColorstr='#c2d4d8', GradientType=1 );
+    color:#f2efe8;
+}
+.clearfix:after {
+     visibility: hidden;
+     display: block;
+     font-size: 0;
+     content: " ";
+     clear: both;
+     height: 0;
+     }
+.clearfix { display: inline-block; }
+/* start commented backslash hack \*/
+* html .clearfix { height: 1%; }
+.clearfix { display: block; }
+a{text-decoration:none;color:inherit;}
+ul{list-style:none;}
+.txt_center{text-align:center;}
+h1{
+    color:#fff;
+    margin:20px 0 40px 0;
+}
+.pg_wrp{
+    width:100%;
+    max-width:1170px;
+    margin:0 auto;
+}
+.instr_wrp{
+    padding:100px 0;
+}
+.instr_wrp ul{margin-bottom:40px;}
+.instr_wrp li {
+    color:#fff;
+    margin-bottom:10px;
+}
+.instr_wrp li i{
+    color:#f2efe8;
+    margin-right: 10px;
+    font-size:12px;
+}
+.btn{
+    border:0;
+    display:inline-block;
+    padding:10px 20px;
+    background:#fff;
+    color:#b0aac2;
+    font-size:18px;
+    border-radius:3px;
+    cursor:pointer;
+    min-width:200px
+}
+.btn_purple{
+    background:#b0aac2;
+    color:#fff;
+}
+.inputs_wrp,.result_wrp{
+    display:none;
+    margin: 100px auto;
+    background:#dbe9d8;
+    padding:100px 50px;
+    border-radius:3px;
+    width:100%;
+}
+.result_wrpB{
+    display:block;
+      margin: 10px auto;
+    padding:50px 50px;
+    border-radius:3px;
+    width:100%;
+}
+.input_field{
+    border:0;
+    padding:10px 20px;
+    border-radius:3px;
+    font-size:18px;
+    width:70%;
+}
+.error_msg{
+    color:red;
+    margin-top:10px;
+}
+.row{
+    width:100%;
+    margin: 10px 0;
+    background:rgba(255,255,255,0.7);
+}
+.col-2{
+    float:left;
+    width:50%;
+    padding:20px;
+}
+    .col-2:first-child {
+        color: #000;
+    }
+    .col-2:last-child {
+        color: #222;
+        border-left: 1px solid #fff;
+    }

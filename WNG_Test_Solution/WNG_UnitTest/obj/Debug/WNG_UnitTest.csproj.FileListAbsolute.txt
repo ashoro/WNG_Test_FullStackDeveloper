@@ -1,0 +1,9 @@
+C:\AGT_Projects\WNG_Test_Solution\WNG_UnitTest\bin\Debug\WNG_UnitTest.dll
+C:\AGT_Projects\WNG_Test_Solution\WNG_UnitTest\bin\Debug\WNG_UnitTest.pdb
+C:\AGT_Projects\WNG_Test_Solution\WNG_UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\AGT_Projects\WNG_Test_Solution\WNG_UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\AGT_Projects\WNG_Test_Solution\WNG_UnitTest\obj\Debug\WNG_UnitTest.csprojResolveAssemblyReference.cache
+C:\AGT_Projects\WNG_Test_Solution\WNG_UnitTest\obj\Debug\WNG_UnitTest.dll
+C:\AGT_Projects\WNG_Test_Solution\WNG_UnitTest\obj\Debug\WNG_UnitTest.pdb
+C:\AGT_Projects\WNG_Test_Solution\WNG_UnitTest\bin\Debug\WNG_BusinessLogic.dll
+C:\AGT_Projects\WNG_Test_Solution\WNG_UnitTest\bin\Debug\WNG_BusinessLogic.pdb
